@@ -8,7 +8,7 @@ export const headerData = {
     },
     {
       text: '食谱',
-      href: getPermalink('/blog'),
+      href: getPermalink('/cookbook'),
     },
     {
       text: '关于我们',
